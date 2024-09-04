@@ -1,0 +1,13 @@
+{
+    "name": "Python Hello World",
+    "dockerFile": "Dockerfile",
+    "context": ".",
+    "workspaceFolder": "/app",
+    "extensions": [
+      "ms-python.python"
+    ],
+    "settings": {
+      "python.pythonPath": "/usr/local/bin/python"
+    }
+  }
+  
